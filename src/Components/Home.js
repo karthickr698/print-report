@@ -2,93 +2,7 @@ import React, { Component } from "react";
 import ReactToPrint from 'react-to-print';
 import './Home.css';
 import Select from 'react-select';
-
-const aquaticCreatures = [
-    {
-        "StaffId":102362,
-        "Name":"Mohamad Farid bin Yahya",
-        "label":"Mohamad Farid bin Yahya",
-        "Department":"MRCSB",
-        "OPU":"",
-        "Date":"05-Nov-20",
-        "Competency":[
-            {
-                "name":"Bearing and Lubrication Systems",
-                "def":"The ability to support the operation and maintenance of lubrication systems for various types of rotating equipment. This is done by ensuring the proper operation of the equipment, solving operational problems, troubleshooting of lubrication problems and support of equipment maintenance. This requires an understanding of: Types of bearings (rolling element and hydrodynamic) Tribology (the science of lubrication) General design, layout and functions of lubrication system components (as per API Standard 614) Principles of operation, startup and shutdown Normal operating conditions and limits Maintenance requirements and methods.",
-                "min_level":0,
-                "expected_level":3,
-                "actual_level":4,
-                "gap":"No",
-                "recommend":""
-            }
-        ],
-    },
-    {
-        "StaffId":126418,
-        "Name":"Tengku Mohd Syazwan Bin Tengku Hassan",
-        "label":"Tengku Mohd Syazwan Bin Tengku Hassan",
-        "Department":"Stratigraphy / Sedimentology",
-        "OPU":"",
-        "Date":"05-Nov-20",
-        "Competency":[
-            {
-                "name":"Carbonate Petrology",
-                "def":"",
-                "min_level":0,
-                "expected_level":4,
-                "actual_level":1,
-                "gap":"Yes",
-                "recommend":"Sedimentology L2 ABL L2 Carbonate"
-            },
-            {
-                "name":"Offshore Positioning",
-                "def":"",
-                "min_level":0,
-                "expected_level":2,
-                "actual_level":0,
-                "gap":"Yes",
-                "recommend":". Integrated Module Level 1 2. Commercial GNSS trainings"
-            }
-        ],
-    },
-    {
-        "StaffId":126408,
-        "Name":"Azira binti Aliyah",
-        "label":"Azira binti Aliyah",
-        "Department":"Asia Pacific Basin",
-        "OPU":"",
-        "Date":"10-Nov-20",
-        "Competency":[
-            {
-                "name":"Geological Well Log",
-                "def":"The ability to support the operation and maintenance of lubrication systems for various types of rotating equipment. This is done by ensuring the proper operation of the equipment, solving operational problems, troubleshooting of lubrication problems and support of equipment maintenance. This requires an understanding of: Types of bearings (rolling element and hydrodynamic) Tribology (the science of lubrication) General design, layout and functions of lubrication system components (as per API Standard 614) Principles of operation, startup and shutdown Normal operating conditions and limits Maintenance requirements and methods.",
-                "min_level":0,
-                "expected_level":2,
-                "actual_level":1,
-                "gap":"Yes",
-                "recommend":"Sequence Stratigraphy L2 ECDP ABL L2 (Resak, Salt Geology, Deepwater and Carbonate)"
-            },
-            {
-                "name":"Resource & Risk Assessment",
-                "def":"The ability to support the operation and maintenance of lubrication systems for various types of rotating equipment. This is done by ensuring the proper operation of the equipment, solving operational problems, troubleshooting of lubrication problems and support of equipment maintenance. This requires an understanding of: Types of bearings (rolling element and hydrodynamic) Tribology (the science of lubrication) General design, layout and functions of lubrication system components (as per API Standard 614) Principles of operation, startup and shutdown Normal operating conditions and limits Maintenance requirements and methods.",
-                "min_level":0,
-                "expected_level":2,
-                "actual_level":4,
-                "gap":"No",
-                "recommend":"Hydrocarbon Resource Assessment  L2 IRMS level 2 Basic GeoX Training"
-            },
-            {
-                "name":"Carbonate Petrology",
-                "def":"The ability to support the operation and maintenance of lubrication systems for various types of rotating equipment. This is done by ensuring the proper operation of the equipment, solving operational problems, troubleshooting of lubrication problems and support of equipment maintenance. This requires an understanding of: Types of bearings (rolling element and hydrodynamic) Tribology (the science of lubrication) General design, layout and functions of lubrication system components (as per API Standard 614) Principles of operation, startup and shutdown Normal operating conditions and limits Maintenance requirements and methods.",
-                "min_level":0,
-                "expected_level":3,
-                "actual_level":1,
-                "gap":"Yes",
-                "recommend":" Sedimentology L2 ABL L2 Carbonate"               
-            }
-        ],
-    },
-];
+import userDatas from "../data.json";
 
 class PrintDatas extends React.Component {
 
@@ -375,7 +289,7 @@ export default class Home extends Component{
                 />
                 <Select
                     className="select"
-                    options={aquaticCreatures}
+                    options={userDatas.users}
                     onChange={this.handleChange}
                 />
                 <PrintDatas user={datas}  ref={el => (this.componentRef = el)} />

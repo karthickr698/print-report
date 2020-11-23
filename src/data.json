@@ -1,7 +1,838 @@
 {
     "users":[
         {
-            "NAME":"KARTHICK"
+            "StaffId":102362,
+            "Name":"Mohamad Farid bin Yahya",
+            "label":"Mohamad Farid bin Yahya",
+            "Department":"MRCSB",
+            "OPU":"",
+            "Date":"05-Nov-20",
+            "Competency":[
+                {
+                    "name":"Bearing and Lubrication Systems",
+                    "def":"The ability to support the operation and maintenance of lubrication systems for various types of rotating equipment. This is done by ensuring the proper operation of the equipment, solving operational problems, troubleshooting of lubrication problems and support of equipment maintenance. This requires an understanding of: Types of bearings (rolling element and hydrodynamic) Tribology (the science of lubrication) General design, layout and functions of lubrication system components (as per API Standard 614) Principles of operation, startup and shutdown Normal operating conditions and limits Maintenance requirements and methods.",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":4,
+                    "gap":"No",
+                    "recommend":""
+                }
+            ]
+        },
+        {
+            "StaffId":126418,
+            "Name":"Tengku Mohd Syazwan Bin Tengku Hassan",
+            "label":"Tengku Mohd Syazwan Bin Tengku Hassan",
+            "Department":"Stratigraphy / Sedimentology",
+            "OPU":"",
+            "Date":"05-Nov-20",
+            "Competency":[
+                {
+                    "name":"Carbonate Petrology",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":4,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"Sedimentology L2 ABL L2 Carbonate"
+                },
+                {
+                    "name":"Offshore Positioning",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":2,
+                    "actual_level":0,
+                    "gap":"Yes",
+                    "recommend":". Integrated Module Level 1 2. Commercial GNSS trainings"
+                }
+            ]
+        },
+        {
+            "StaffId":126408,
+            "Name":"Azira binti Aliyah",
+            "label":"Azira binti Aliyah",
+            "Department":"Asia Pacific Basin",
+            "OPU":"",
+            "Date":"10-Nov-20",
+            "Competency":[
+                {
+                    "name":"Geological Well Log",
+                    "def":"The ability to support the operation and maintenance of lubrication systems for various types of rotating equipment. This is done by ensuring the proper operation of the equipment, solving operational problems, troubleshooting of lubrication problems and support of equipment maintenance. This requires an understanding of: Types of bearings (rolling element and hydrodynamic) Tribology (the science of lubrication) General design, layout and functions of lubrication system components (as per API Standard 614) Principles of operation, startup and shutdown Normal operating conditions and limits Maintenance requirements and methods.",
+                    "min_level":0,
+                    "expected_level":2,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"Sequence Stratigraphy L2 ECDP ABL L2 (Resak, Salt Geology, Deepwater and Carbonate)"
+                },
+                {
+                    "name":"Resource & Risk Assessment",
+                    "def":"The ability to support the operation and maintenance of lubrication systems for various types of rotating equipment. This is done by ensuring the proper operation of the equipment, solving operational problems, troubleshooting of lubrication problems and support of equipment maintenance. This requires an understanding of: Types of bearings (rolling element and hydrodynamic) Tribology (the science of lubrication) General design, layout and functions of lubrication system components (as per API Standard 614) Principles of operation, startup and shutdown Normal operating conditions and limits Maintenance requirements and methods.",
+                    "min_level":0,
+                    "expected_level":2,
+                    "actual_level":4,
+                    "gap":"No",
+                    "recommend":"Hydrocarbon Resource Assessment  L2 IRMS level 2 Basic GeoX Training"
+                },
+                {
+                    "name":"Carbonate Petrology",
+                    "def":"The ability to support the operation and maintenance of lubrication systems for various types of rotating equipment. This is done by ensuring the proper operation of the equipment, solving operational problems, troubleshooting of lubrication problems and support of equipment maintenance. This requires an understanding of: Types of bearings (rolling element and hydrodynamic) Tribology (the science of lubrication) General design, layout and functions of lubrication system components (as per API Standard 614) Principles of operation, startup and shutdown Normal operating conditions and limits Maintenance requirements and methods.",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":" Sedimentology L2 ABL L2 Carbonate"               
+                }
+            ]
+        },
+        {
+            "StaffId":132583,
+            "Name":"Noor Farahida binti Ahmad Sharif",
+            "label":"Noor Farahida binti Ahmad Sharif",
+            "Department":"Petroleum System Modelling",
+            "OPU":"",
+            "Date":"09-Nov-20",
+            "Competency":[
+                {
+                    "name":"Carbonate Petrology",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":3,
+                    "gap":"No",
+                    "recommend":" Sedimentology L2 ABL L2 Carbonate"
+                },
+                {
+                    "name":"Geological Well Log",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":2,
+                    "actual_level":2,
+                    "gap":"No",
+                    "recommend":"Sequence Stratigraphy L2 ECDP ABL L2 (Resak, Salt Geology, Deepwater and Carbonate)"
+                }
+            ]
+        },
+        {
+            "StaffId":124118,
+            "Name":"Ahmad Fahrul bin Januri",
+            "label":"Ahmad Fahrul bin Januri",
+            "Department":"Middle East & Central Asia Basin",
+            "OPU":"",
+            "Date":"05/11/2020",
+            "Competency":[
+                {
+                    "name":"Carbonate Petrology",
+                    "def":"The ability to support the operation and maintenance of lubrication systems for various types of rotating equipment. This is done by ensuring the proper operation of the equipment, solving operational problems, troubleshooting of lubrication problems and support of equipment maintenance. This requires an understanding of: Types of bearings (rolling element and hydrodynamic) Tribology (the science of lubrication) General design, layout and functions of lubrication system components (as per API Standard 614) Principles of operation, startup and shutdown Normal operating conditions and limits Maintenance requirements and methods.",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"Sedimentology L2 ABL L2 Carbonate"
+                }
+            ]
+        },
+        {
+            "StaffId":1000039,
+            "Name":"Nurul Hanani binti Tajul Nahar",
+            "label":"Nurul Hanani binti Tajul Nahar",
+            "Department":"Stratigraphy / Sedimentology",
+            "OPU":"",
+            "Date":"05/11/2020",
+            "Competency":[
+                {
+                    "name":"Carbonate Petrology",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":4,
+                    "gap":"No",
+                    "recommend":" Sedimentology L2 ABL L2 Carbonate"
+                }
+            ]
+        },
+        {
+            "StaffId":127867,
+            "Name":"Noorulhuda binti Ismail",
+            "label":"Noorulhuda binti Ismail",
+            "Department":"MRCSB",
+            "OPU":"",
+            "Date":"05/11/2020",
+            "Competency":[
+                {
+                    "name":"Bearing and Lubrication Systems",
+                    "def":"The ability to support the operation and maintenance of lubrication systems for various types of rotating equipment. This is done by ensuring the proper operation of the equipment, solving operational problems, troubleshooting of lubrication problems and support of equipment maintenance.This requires an understanding of: Types of bearings (rolling element and hydrodynamic) Tribology (the science of lubrication) General design, layout and functions of lubrication system components (as per API Standard 614) Principles of operation, startup and shutdown Normal operating conditions and limits Maintenance requirements and methods.",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":4,
+                    "gap":"No",
+                    "recommend":""
+                }
+            ]
+        },
+        {
+            "StaffId":117141,
+            "Name":"Salbiah binti Isa",
+            "label":"Salbiah binti Isa",
+            "Department":"Group Research & Technology",
+            "OPU":"",
+            "Date":"05/11/2020",
+            "Competency":[
+                {
+                    "name":"Carbonate Petrology",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":" Sedimentology L2 ABL L2 Carbonate"
+                }
+            ]
+        },
+        {
+            "StaffId":132588,
+            "Name":"Juhana binti Mishan",
+            "label":"Juhana binti Mishan",
+            "Department":"Peninsular Malaysia Ventures",
+            "OPU":"",
+            "Date":"05/11/2020",
+            "Competency":[
+                {
+                    "name":"Carbonate Petrology",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":2,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":" Sedimentology L2 ABL L2 Carbonate"
+                }
+            ]
+        },
+        {
+            "StaffId":1008140,
+            "Name":"Camellia binti Onn",
+            "label":"Camellia binti Onn",
+            "Department":"Reservoir Geophysics",
+            "OPU":"",
+            "Date":"05/11/2020",
+            "Competency":[
+                {
+                    "name":"Offshore Positioning",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"1. Integrated Module Level 1 2. Commercial GNSS trainings"
+                }
+            ]
+        },
+        {
+            "StaffId":124186,
+            "Name":"Muhammad Fauzi bin Deraman",
+            "label":"Muhammad Fauzi bin Deraman",
+            "Department":"Borneo Deepwater",
+            "OPU":"",
+            "Date":"05/11/2020",
+            "Competency":[
+                {
+                    "name":"Carbonate Petrology",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"Sedimentology L2 ABL L2 Carbonate"
+                }
+            ]
+        },
+        {
+            "StaffId":112626,
+            "Name":"Mursyidah binti Abdul Hamid",
+            "label":"Mursyidah binti Abdul Hamid",
+            "Department":"Borneo Shallow Water & Onshore",
+            "OPU":"",
+            "Date":"05/11/2020",
+            "Competency":[
+                {
+                    "name":"Carbonate Petrology",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":4,
+                    "actual_level":1,
+                    "gap":"",
+                    "recommend":" Sedimentology L2 ABL L2 Carbonate"
+                }
+            ]
+        },
+        {
+            "StaffId":139445,
+            "Name":"Wan Mohd Farid bin Wan Aziz",
+            "label":"Wan Mohd Farid bin Wan Aziz",
+            "Department":"Africa Ventures",
+            "OPU":"",
+            "Date":"05/11/2020",
+            "Competency":[
+                {
+                    "name":"Carbonate Petrology",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":2,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":" Sedimentology L2 ABL L2 Carbonate"
+                }
+            ]
+        },
+        {
+            "StaffId":136820,
+            "Name":"Edwin Cheng Eu Winn",
+            "label":"Edwin Cheng Eu Winn",
+            "Department":"SBA",
+            "OPU":"",
+            "Date":"05/11/2020",
+            "Competency":[
+                {
+                    "name":"Bearing and Lubrication Systems",
+                    "def":"The ability to support the operation and maintenance of lubrication systems for various types of rotating equipment. This is done by ensuring the proper operation of the equipment, solving operational problems, troubleshooting of lubrication problems and support of equipment maintenance.This requires an understanding of: Types of bearings (rolling element and hydrodynamic) Tribology (the science of lubrication) General design, layout and functions of lubrication system components (as per API Standard 614) Principles of operation, startup and shutdown Normal operating conditions and limits Maintenance requirements and methods.",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"This is a system generated competency self assessment report. The purpose of the report is to help you reflect upon the "
+                }
+            ]
+        },
+        {
+            "StaffId":1027250,
+            "Name":"Nik Akmal Hafeez bin Shamsuddin",
+            "label":"Nik Akmal Hafeez bin Shamsuddin",
+            "Department":"PRPC",
+            "OPU":"",
+            "Date":"06/11/2020",
+            "Competency":[
+                {
+                    "name":"Bearing and Lubrication Systems",
+                    "def":"The ability to support the operation and maintenance of lubrication systems for various types of rotating equipment. This is done by ensuring the proper operation of the equipment, solving operational problems, troubleshooting of lubrication problems and support of equipment maintenance.This requires an understanding of: Types of bearings (rolling element and hydrodynamic) Tribology (the science of lubrication) General design, layout and functions of lubrication system components (as per API Standard 614) Principles of operation, startup and shutdown Normal operating conditions and limits Maintenance requirements and methods.",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"This is a system generated competency self assessment report. The purpose of the report is to help you reflect upon the "
+                }
+            ]
+        },
+        {
+            "StaffId":131393,
+            "Name":"Siti Nurul Farieza binti Harun",
+            "label":"Siti Nurul Farieza binti Harun",
+            "Department":"Borneo Deepwater",
+            "OPU":"",
+            "Date":"06/11/2020",
+            "Competency":[
+                {
+                    "name":"Offshore Positioning",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":5,
+                    "gap":"No",
+                    "recommend":"1. Integrated Module Level 1 2. Commercial GNSS trainings"
+                }
+            ]
+        },
+        {
+            "StaffId":1057029,
+            "Name":"Herman Darman",
+            "label":"Herman Darman",
+            "Department":"Asia Pacific Basin",
+            "OPU":"",
+            "Date":"06/11/2020",
+            "Competency":[
+                {
+                    "name":"Offshore Positioning",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":4,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"1. Integrated Module Level 1 2. Commercial GNSS trainings"
+                }
+            ]
+        },
+        {
+            "StaffId":1030295,
+            "Name":"Mohammad Nazrin bin Mohd Noor",
+            "label":"Mohammad Nazrin bin Mohd Noor",
+            "Department":"MRCSB",
+            "OPU":"",
+            "Date":"06/11/2020",
+            "Competency":[
+                {
+                    "name":"Bearing and Lubrication Systems",
+                    "def":"The ability to support the operation and maintenance of lubrication systems for various types of rotating equipment. This is done by ensuring the proper operation of the equipment, solving operational problems, troubleshooting of lubrication problems and support of equipment maintenance. This requires an understanding of: Types of bearings (rolling element and hydrodynamic) Tribology (the science of lubrication) General design, layout and functions of lubrication system components (as per API Standard 614) Principles of operation, startup and shutdown Normal operating conditions and limits Maintenance requirements and methods.",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"This is a system generated competency self assessment report. The purpose of the report is to help you reflect upon the "
+                }
+            ]
+        },
+        {
+            "StaffId":124601,
+            "Name":"Megat Iskandar bin Megat Ismail",
+            "label":"Megat Iskandar bin Megat Ismail",
+            "Department":"Asia Pacific Ventures",
+            "OPU":"",
+            "Date":"06/11/2020",
+            "Competency":[
+                {
+                    "name":"Carbonate Petrology",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":" Sedimentology L2 ABL L2 Carbonate"
+                }
+            ]
+        },
+        {
+            "StaffId":136190,
+            "Name":"Faizan Akasyah bin Ghazali",
+            "label":"Faizan Akasyah bin Ghazali",
+            "Department":"TAC - Capability",
+            "OPU":"",
+            "Date":"06/11/2020",
+            "Competency":[
+                {
+                    "name":"Offshore Positioning",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":4,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"1. Integrated Module Level 1 2. Commercial GNSS trainings"
+                }
+            ]
+        },
+        {
+            "StaffId":1007181,
+            "Name":"Zainal Fikri bin Aziz @ Abu Yazid",
+            "label":"Zainal Fikri bin Aziz @ Abu Yazid",
+            "Department":"GTS",
+            "OPU":"",
+            "Date":"06/11/2020",
+            "Competency":[
+                {
+                    "name":"Piping Design Codes and Standards",
+                    "def":"Piping engineers should have a good working knowledge of piping codes and standards which prescribe the requirements for materials, design, fabrication, assembly, erection, inspection and testing of piping systems subject to internal pressure or vacuum. The most commonly used piping codes and standards are those produced under the sponsorship of American Society of Mechanical Engineers (ASME). B31.1 B31.2 B31.3 B31.4 B31.5 B31.8 B31.11Power Piping; Fuel Gas Piping (also in B31.3); Process Piping; Pipeline Transportation system for Liquid Hydrocarbons and other liquids Refrigeration Piping; Gas Transmission and Distribution Piping system Slurry transportation Piping system International standards for dimensions, rating and design have also been developed for a large number of piping components. The most commonly applied standards are:- ASME B16.5 : pipe flanges and flanged fittings ASME B16.9: factory made WTB fittings ASME B16.28 : WSB short  R elbows and returns ASME B16.34 : valves, flanged & butt-welding ends ASME B36.10M : welded & seamless steel pipe ASME B36.19M : stainless steel pipe API 6D: gate and check valves API 594: check valve-dual plate",
+                    "min_level":0,
+                    "expected_level":4,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"This is a system generated competency self assessment report. The purpose of the report is to help you reflect upon the "
+                }
+            ]
+        },
+        {
+            "StaffId":25522,
+            "Name":"Paramaswaran A/L K. Suppiah",
+            "label":"Paramaswaran A/L K. Suppiah",
+            "Department":"Geological Operations",
+            "OPU":"",
+            "Date":"06/11/2020",
+            "Competency":[
+                {
+                    "name":"Offshore Positioning",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":5,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"1. Integrated Module Level 1 2. Commercial GNSS trainings"
+                }
+            ]
+        },
+        {
+            "StaffId":129652,
+            "Name":"Khairul Amry bin Kamarudzaman",
+            "label":"Khairul Amry bin Kamarudzaman",
+            "Department":"Resource Exploration",
+            "OPU":"",
+            "Date":"06/11/2020",
+            "Competency":[
+                {
+                    "name":"Offshore Positioning",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":4,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"1. Integrated Module Level 1 2. Commercial GNSS trainings"
+                }
+            ]
+        },
+        {
+            "StaffId":131309,
+            "Name":"Mohd Hafizan bin Abdul Wahab",
+            "label":"Mohd Hafizan bin Abdul Wahab",
+            "Department":"MECA & Americas Ventures",
+            "OPU":"",
+            "Date":"06/11/2020",
+            "Competency":[]
+        },
+        {
+            "StaffId":1039966,
+            "Name":"Arvin Boutik A/L Karpiah",
+            "label":"Arvin Boutik A/L Karpiah",
+            "Department":"Quantitative Interpretation",
+            "OPU":"",
+            "Date":"09/11/2020",
+            "Competency":[
+                {
+                    "name":"Seismic, Non Seismic Methods",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":2,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"This is a system generated competency self assessment report. The purpose of the report is to help you reflect upon the "
+                }
+            ]
+        },
+        {
+            "StaffId":1043229,
+            "Name":"Muhammad Arif bin Nasrudin",
+            "label":"Muhammad Arif bin Nasrudin",
+            "Department":"PGB",
+            "OPU":"",
+            "Date":"09/11/2020",
+            "Competency":[
+                {
+                    "name":"Piping Design Codes and Standards",
+                    "def":"Piping engineers should have a good working knowledge of piping codes and standards which prescribe the requirements for materials, design, fabrication, assembly, erection, inspection and testing of piping systems subject to internal pressure or vacuum. The most commonly used piping codes and standards are those produced under the sponsorship of American Society of Mechanical Engineers (ASME). B31.1 B31.2 B31.3 B31.4 B31.5 B31.8 B31.11Power Piping; Fuel Gas Piping (also in B31.3); Process Piping; Pipeline Transportation system for Liquid Hydrocarbons and other liquids Refrigeration Piping; Gas Transmission and Distribution Piping system Slurry transportation Piping system International standards for dimensions, rating and design have also been developed for a large number of piping components. The most commonly applied standards are:- ASME B16.5 : pipe flanges and flanged fittings ASME B16.9: factory made WTB fittings ASME B16.28 : WSB short  R elbows and returns ASME B16.34 : valves, flanged & butt-welding ends ASME B36.10M : welded & seamless steel pipe ASME B36.19M : stainless steel pipe API 6D: gate and check valves API 594: check valve-dual plate",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":3,
+                    "gap":"No",
+                    "recommend":""
+                }
+            ]
+        },
+        {
+            "StaffId":1001933,
+            "Name":"Farawahida binti Mohd Monil",
+            "label":"Farawahida binti Mohd Monil",
+            "Department":"Geomatics",
+            "OPU":"",
+            "Date":"09/11/2020",
+            "Competency":[
+                {
+                    "name":"Offshore Positioning",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":4,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"1. Integrated Module Level 1 2. Commercial GNSS trainings"
+                }
+            ]
+        },
+        {
+            "StaffId":125396,
+            "Name":"Muhammad Fadzlee bin Samsubaha",
+            "label":"Muhammad Fadzlee bin Samsubaha",
+            "Department":"MRCSB",
+            "OPU":"",
+            "Date":"09/11/2020",
+            "Competency":[
+                {
+                    "name":"Bearing and Lubrication Systems",
+                    "def":"The ability to support the operation and maintenance of lubrication systems for various types of rotating equipment. This is done by ensuring the proper operation of the equipment, solving operational problems, troubleshooting of lubrication problems and support of equipment maintenance. This requires an understanding of: Types of bearings (rolling element and hydrodynamic) Tribology (the science of lubrication) General design, layout and functions of lubrication system components (as per API Standard 614) Principles of operation, startup and shutdown Normal operating conditions and limits Maintenance requirements and methods.",
+                    "min_level":0,
+                    "expected_level":4,
+                    "actual_level":4,
+                    "gap":"No",
+                    "recommend":""
+                }
+            ]
+        },
+        {
+            "StaffId":136505,
+            "Name":"Mohd Redzuan bin Abdan",
+            "label":"Mohd Redzuan bin Abdan",
+            "Department":"GTS",
+            "OPU":"",
+            "Date":"09/11/2020",
+            "Competency":[
+                {
+                    "name":"Subsea Production System Facilities",
+                    "def":"The capability to identify and integrate the building blocks and the main components of Subsea Production System (SPS), up to the host facility for shallow water and deepwater development. This requires the ability to: Understand the building blocks and the main components of Subsea Production System (SPS) e.g. subsea X-mas Tree, Umbilical, Template & Manifold, Jumpers, Connectors and subsea topside control equipment. Understand the general functional & physical requirements of SPS main components in accordance to ISO 13628/API 17 series. Understand the impact of the key technical drivers on the selection of SPS components..",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":2,
+                    "gap":"Yes",
+                    "recommend":"This is a system generated competency self assessment report. The purpose of the report is to help you reflect upon the "
+                }
+            ]
+        },
+        {
+            "StaffId":1043270,
+            "Name":"Muhamad Hafiz bin Kamilin",
+            "label":"Muhamad Hafiz bin Kamilin",
+            "Department":"PGB",
+            "OPU":"",
+            "Date":"09/11/2020",
+            "Competency":[
+                {
+                    "name":"Material (Carbon steel material for pressure vessels, heat exchangers, storage tanks) ",
+                    "def":"The ability to understand the nature and properties of the materials used for the construction and protection of vessels, exchangers and tanks in the oil, gas and petro-chemical industry. The ability to select optimum materials and material combinations based on consideration of strength, ductility, ease of fabrication, corrosion resistance and cost. Example on common material and codes/standards: Typical CS ,  Low alloy steel , high alloy steel and  non-ferrous materials used for equipment components e.g. Shell, head, nozzles, flange,  tubes, tube sheet, shell flange, stud bolts, nuts, supports, internals and other external attachments. Main Codes & Standards: ASME  Section VIII Div. 1 ASME SEC II Part A, Part B, Part D API 650 API 571 TEMA ISO 16812 ISO 13706 ISO 15547 Relevant PTS",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":3,
+                    "gap":"Yes",
+                    "recommend":"This is a system generated competency self assessment report. The purpose of the report is to help you reflect upon the "
+                }
+            ]
+        },
+        {
+            "StaffId":141771,
+            "Name":"Ahmad Izzuddin bin Yusof",
+            "label":"Ahmad Izzuddin bin Yusof",
+            "Department":"Reservoir Geophysics",
+            "OPU":"",
+            "Date":"09/11/2020",
+            "Competency":[
+                {
+                    "name":"Structural Geology",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":2,
+                    "actual_level":2,
+                    "gap":"No",
+                    "recommend":"Structural Geology L2"
+                }
+            ]
+        },
+        {
+            "StaffId":124600,
+            "Name":"Khairul Azhar bin Zamri",
+            "label":"Khairul Azhar bin Zamri",
+            "Department":"Resource Development & Management",
+            "OPU":"",
+            "Date":"09/11/2020",
+            "Competency":[]
+        },
+        {
+            "StaffId":1029912,
+            "Name":"Christian Brinzer",
+            "label":"Christian Brinzer",
+            "Department":"Mexico Ventures",
+            "OPU":"",
+            "Date":"10/11/2020",
+            "Competency":[
+                {
+                    "name":"Resource & Risk Assessment",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":4,
+                    "actual_level":4,
+                    "gap":"No",
+                    "recommend":"Hydrocarbon Resource Assessment  L2 IRMS level 2 Basic GeoX Training"
+                }
+            ]
+        },
+        {
+            "StaffId":1042278,
+            "Name":"Alwizan bin Mohd Ron",
+            "label":"Alwizan bin Mohd Ron",
+            "Department":"PDB",
+            "OPU":"",
+            "Date":"10/11/2020",
+            "Competency":[
+                {
+                    "name":"Root Cause Analysis (RCA)",
+                    "def":"Objective/s: Recommend action items to resolve systemic issues, in order to prevent failure recurrence. Key process: a. Gather evidence/data/factual finding (inclusive interview). b. Define Problem Statement. c. Conduct Failure Analysis.I. E&C charting.II. Causal analysis. d. Identify systemic issues. e. Recommend appropriate action items. Common tools and techniques: a. FTA, E&CF, Structured-Why, Tripod Beta, Kepner Tregoe. b. Physics of failure (Forensic Engineering). c. Software: Tripod Beta. PROACT, REASON, TapRooT, Apollo RCA, AcciMap. Application: a. Incident investigation report. Common reference: a. PETRONAS RIMS Version 3, 6-3-15, Appendix 4.8. b. RCA Guidelines from US Department of Energy. c. IEC 61025 - Fault Tree Analysis.",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":3,
+                    "gap":"No",
+                    "recommend":""
+                }
+            ]
+        },
+        {
+            "StaffId":123735,
+            "Name":"Rahimi Faizal bin Ibrahim",
+            "label":"Rahimi Faizal bin Ibrahim",
+            "Department":"Asia Pacific Ventures",
+            "OPU":"",
+            "Date":"10/11/2020",
+            "Competency":[
+                {
+                    "name":"Seismic, Non Seismic Methods",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"This is a system generated competency self assessment report. The purpose of the report is to help you reflect upon the "
+                }
+            ]
+        },
+        {
+            "StaffId":124215,
+            "Name":"Tee Wei Yong",
+            "label":"Tee Wei Yong",
+            "Department":"Borneo Shallow Water & Onshore",
+            "OPU":"",
+            "Date":"10/11/2020",
+            "Competency":[
+                {
+                    "name":"Resource & Risk Assessment",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":4,
+                    "actual_level":3,
+                    "gap":"Yes",
+                    "recommend":"Hydrocarbon Resource Assessment  L2 IRMS level 2 Basic GeoX Training"
+                }
+            ]
+        },
+        {
+            "StaffId":1043185,
+            "Name":"Muhammad Aizadt bin Rosman",
+            "label":"Muhammad Aizadt bin Rosman",
+            "Department":"PGB",
+            "OPU":"",
+            "Date":"10/11/2020",
+            "Competency":[
+                {
+                    "name":"Bearing and Lubrication Systems",
+                    "def":"The ability to support the operation and maintenance of lubrication systems for various types of rotating equipment. This is done by ensuring the proper operation of the equipment, solving operational problems, troubleshooting of lubrication problems and support of equipment maintenance. This requires an understanding of: Types of bearings (rolling element and hydrodynamic) Tribology (the science of lubrication) General design, layout and functions of lubrication system components (as per API Standard 614) Principles of operation, startup and shutdown Normal operating conditions and limits Maintenance requirements and methods.",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"This is a system generated competency self assessment report. The purpose of the report is to help you reflect upon the "
+                }
+            ]
+        },
+        {
+            "StaffId":124259,
+            "Name":"Fazira binti Zahari",
+            "label":"Fazira binti Zahari",
+            "Department":"Africa Ventures",
+            "OPU":"",
+            "Date":"10/11/2020",
+            "Competency":[
+                {
+                    "name":"Resource & Risk Assessment",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":3,
+                    "gap":"No",
+                    "recommend":"Hydrocarbon Resource Assessment  L2 IRMS level 2 Basic GeoX Training"
+                }
+            ]
+        },
+        {
+            "StaffId":100089,
+            "Name":"Afandi bin Mohamad",
+            "label":"Afandi bin Mohamad",
+            "Department":"PRPC",
+            "OPU":"",
+            "Date":"10/11/2020",
+            "Competency":[
+                {
+                    "name":"Root Cause Analysis (RCA)",
+                    "def":"Objective/s: Recommend action items to resolve systemic issues, in order to prevent failure recurrence. Key process: a. Gather evidence/data/factual finding (inclusive interview). b. Define Problem Statement. c. Conduct Failure Analysis.I. E&C charting. II. Causal analysis. d. Identify systemic issues. e. Recommend appropriate action items. Common tools and techniques: a. FTA, E&CF, Structured-Why, Tripod Beta, Kepner Tregoe. b. Physics of failure (Forensic Engineering). c. Software: Tripod Beta. PROACT, REASON, TapRooT, Apollo RCA, AcciMap. Application: a. Incident investigation report. Common reference: a. PETRONAS RIMS Version 3, 6-3-15, Appendix 4.8. b. RCA Guidelines from US Department of Energy. c. IEC 61025 - Fault Tree Analysis.",
+                    "min_level":0,
+                    "expected_level":3,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"This is a system generated competency self assessment report. The purpose of the report is to help you reflect upon the "
+                }
+            ]
+        },
+        {
+            "StaffId":135298,
+            "Name":"Norazila binti Mohd Yasin",
+            "label":"Norazila binti Mohd Yasin",
+            "Department":"Reservoir Geology",
+            "OPU":"",
+            "Date":"",
+            "Competency":[
+                {
+                    "name":"Geological Well Log",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":2,
+                    "actual_level":5,
+                    "gap":"No",
+                    "recommend":"Sequence Stratigraphy L2 ECDP ABL L2 (Resak, Salt Geology, Deepwater and Carbonate)"
+                }
+            ]
+        },
+        {
+            "StaffId":1001718,
+            "Name":"Nurul Nadzirah Bte. Abd Rahman",
+            "label":"Nurul Nadzirah Bte. Abd Rahman",
+            "Department":"Geophysics Solutions",
+            "OPU":"Upstream Business",
+            "Date":"",
+            "Competency":[
+                {
+                    "name":"Seismic, Non Seismic Methods",
+                    "def":"",
+                    "min_level":0,
+                    "expected_level":2,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"This is a system generated competency self assessment report. The purpose of the report is to help you reflect upon the "
+                }
+            ]
+        },
+        {
+            "StaffId":136159,
+            "Name":"Hazreen binti Osman",
+            "label":"Hazreen binti Osman",
+            "Department":"GTS",
+            "OPU":"",
+            "Date":"",
+            "Competency":[
+                {
+                    "name":"Subsea Production System Facilities",
+                    "def":"The capability to identify and integrate the building blocks and the main components of Subsea Production System (SPS), up to the host facility for shallow water and deepwater development. This requires the ability to: Understand the building blocks and the main components of Subsea Production System (SPS) e.g. subsea X-mas Tree, Umbilical, Template & Manifold, Jumpers, Connectors and subsea topside control equipment.  Understand the general functional & physical requirements of SPS main components in accordance to ISO 13628/API 17 series.  Understand the impact of the key technical drivers on the selection of SPS components..",
+                    "min_level":0,
+                    "expected_level":2,
+                    "actual_level":1,
+                    "gap":"Yes",
+                    "recommend":"This is a system generated competency self assessment report. The purpose of the report is to help you reflect upon the "
+                }
+            ]
+        },
+        {
+            "StaffId":1005162,
+            "Name":"Mohd Firdaus Najib bin Roslan",
+            "label":"Mohd Firdaus Najib bin Roslan",
+            "Department":"PGB",
+            "OPU":"Gas & New Energy",
+            "Date":"09/11/2020",
+            "Competency":[
+                {
+                    "name":"Boiler & Steam Technology ",
+                    "def":"The ability to specify requirements for the treatment and integrity of boiler feed water systems The ability to specify requirements for the integrity of boiler systems. The ability to specify requirements for the integrity of steam systems. ",
+                    "min_level":0,
+                    "expected_level":2,
+                    "actual_level":2,
+                    "gap":"No",
+                    "recommend":""
+                }
+            ]
         }
+
     ]
 }
