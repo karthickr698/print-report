@@ -283,7 +283,7 @@ export default class Home extends Component{
             <div>
                 <ReactToPrint
                     trigger={() => {
-                        return <a className="print" href="/user">Print this out!</a>;
+                        return <a className="print" href="/#">Print this out!</a>;
                     }}
                     content={() => this.componentRef}
                 />
