@@ -208,7 +208,7 @@ class PrintDatas extends React.Component {
                             <div>SKG  Name</div>
                             <div>Competency  Name</div>
                             <div>Expected  Level</div>
-                            <div>Actual  Level Learning</div>
+                            <div>Actual  Level</div>
                             <div>Learning Recommendation</div>
                         </div>
                         <hr />
