@@ -110,8 +110,13 @@
     margin-top: 0.3rem;
     width: 10px;
     height: 10px;
-    background-color:#FFD83B;
+    background-color:#01AA9D;
     float: left;
+    margin-right: 10px;
+}
+.icon{
+    font-size: 1.3rem;
+    color:#FFD83B;
     margin-right: 10px;
 }
 .form-logo{
@@ -162,6 +167,12 @@
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
+.star{
+    position: absolute;
+    font-size: 1.8rem;
+    margin-top:-0.5rem;
+    color:#FFD83B;
+}
 
 .rating-list{
     width: 93%;
@@ -184,7 +195,7 @@
     display: flex;
 }
 .learn-table div{
-    width: 15.5%;
+    width: 19.5%;
 }
 .learn-cont{
     font-size: 20px;
@@ -233,9 +244,6 @@
 }
 .expected{
     background-color: #01AA9D;
-}
-.actual{
-    background-color: #FF7E00;
 }
 .select{
     margin-bottom: 2rem;

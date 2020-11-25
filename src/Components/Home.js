@@ -9,17 +9,28 @@ class PrintDatas extends React.Component {
     render() {
         const {user}=this.props
         let arr=[]
+        let expectedArr=[]
         if(user.Competency && user.Competency.length>0){
             for(let i=0;i<user.Competency.length;i++){
-                let arr1=[0,0,0,0,0]
-                let a=user.Competency[i].expected_level
-                let b=user.Competency[i].actual_level
-                for(let j=a;j>0;j--){
-                    arr1[j-1]=1
+                if(user.Competency[i].expected_level===1){
+                    expectedArr.push(3)
                 }
-                if(b>a){
-                    for(let j=b;j>a;j--)
-                        arr1[j-1]=2
+                else if(user.Competency[i].expected_level===2){
+                    expectedArr.push(8.7)
+                }
+                else if(user.Competency[i].expected_level===3){
+                    expectedArr.push(14.3)
+                }
+                else if(user.Competency[i].expected_level===4){
+                    expectedArr.push(20.1)
+                }
+                else{
+                    expectedArr.push(25.7)
+                }
+                let arr1=[0,0,0,0,0]
+                let b=user.Competency[i].actual_level
+                for(let j=b;j>0;j--){
+                    arr1[j-1]=1
                 }
                 arr.push(arr1)
             }
@@ -145,12 +156,12 @@ class PrintDatas extends React.Component {
                     <div className="rating">
                         <div>
                             <div>
-                                <span className="color" style={{background:"#01AA9D"}}></span>Current Target Proficiency Score
+                                <span className="color"></span>Self-Assessment Score
                             </div>
                         </div>
                         <div>
                             <div>
-                                <span className="color" style={{background:"#FF7E00"}}></span>Talent Self-Assessment Score
+                            <i class="fa fa-star icon" aria-hidden="true"></i>Expected Performance Level
                             </div>
                         </div>
                     </div>
@@ -161,13 +172,14 @@ class PrintDatas extends React.Component {
                                         <div className="rating-list">
                                             <div>{ele.name}</div>
                                             <div className="rating-view">
+                                                <div className="star" style={{marginLeft:expectedArr[i]+"rem"}}><i class="fa fa-star" aria-hidden="true"></i></div>
                                                 <div style={{display:"none"}}></div>
-                                                <div className={arr[i][0]===1?'expected':(arr[i][0]===2)?"actual":"normal"}>
+                                                <div className={arr[i][0]===1?'expected':"normal"}>
                                                 </div>
-                                                <div className={arr[i][1]===1?'expected':(arr[i][1]===2)?"actual":"normal"}></div>
-                                                <div className={arr[i][2]===1?'expected':(arr[i][2]===2)?"actual":"normal"}></div>
-                                                <div className={arr[i][3]===1?'expected':(arr[i][3]===2)?"actual":"normal"}></div>
-                                                <div className={arr[i][4]===1?'expected':(arr[i][4]===2)?"actual":"normal"}></div>
+                                                <div className={arr[i][1]===1?'expected':"normal"}></div>
+                                                <div className={arr[i][2]===1?'expected':"normal"}></div>
+                                                <div className={arr[i][3]===1?'expected':"normal"}></div>
+                                                <div className={arr[i][4]===1?'expected':"normal"}></div>
                                             </div>
                                         </div>
                                     </div>
@@ -195,7 +207,6 @@ class PrintDatas extends React.Component {
                         <div className="learn-table">
                             <div>SKG  Name</div>
                             <div>Competency  Name</div>
-                            <div>Minimum  Level</div>
                             <div>Expected  Level</div>
                             <div>Actual  Level Learning</div>
                             <div>Learning Recommendation</div>
@@ -209,15 +220,13 @@ class PrintDatas extends React.Component {
                                         <div className="learn-table learn-cont">
                                             <div>General</div>
                                                 <div>{ele.name}</div>
-                                            <div>L0</div>
                                                 <div>L{ele.expected_level}</div>
                                                 <div>L{ele.actual_level}</div>
                                                 <div>{ele.recommend}</div>
                                         </div>
                                         <hr />
                                     </div>
-                                )
-                                
+                                )   
                             }
                         }):
                             ""
