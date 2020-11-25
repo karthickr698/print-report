@@ -161,7 +161,7 @@ class PrintDatas extends React.Component {
                         </div>
                         <div>
                             <div>
-                            <i class="fa fa-star icon" aria-hidden="true"></i>Expected Performance Level
+                            <i class="fa fa-star icon" aria-hidden="true"></i>Expected Competency Level
                             </div>
                         </div>
                     </div>
