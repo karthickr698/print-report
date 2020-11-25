@@ -60,12 +60,12 @@ class PrintDatas extends React.Component {
                         </div>
                         <hr className="form-hr" />
                         <div className="form-content">
-                            <div>Department</div>
+                            <div>Department/OPU</div>
                             <div className="form-text">{user.Department}</div>
                         </div>
                         <hr className="form-hr" />
                         <div className="form-content">
-                            <div>OPU/Business</div>
+                            <div>Business</div>
                             <div className="form-text">{user.OPU}</div>
                         </div>
                         <hr className="form-hr" />
