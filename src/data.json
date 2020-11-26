@@ -71,7 +71,7 @@
                     "expected_level":2,
                     "actual_level":4,
                     "gap":"No",
-                    "recommend":"Hydrocarbon Resource Assessment  L2 IRMS level 2 Basic GeoX Training"
+                    "recommend":""
                 },
                 {
                     "name":"Carbonate Petrology",
@@ -298,7 +298,7 @@
                     "expected_level":3,
                     "actual_level":1,
                     "gap":"Yes",
-                    "recommend":""
+                    "recommend":"DOMI of Pumps DOMI of Compressors & Blowers DOMI of ICE, Steam Turbines and Turbo Expander DOMI of Gas Turbine SKG12 Machinery Control, Monitoring and Protection "
                 }
             ]
         },
@@ -317,7 +317,7 @@
                     "expected_level":3,
                     "actual_level":1,
                     "gap":"Yes",
-                    "recommend":""
+                    "recommend":"DOMI of Pumps DOMI of Compressors & Blowers DOMI of ICE, Steam Turbines and Turbo Expander DOMI of Gas Turbine SKG12 Machinery Control, Monitoring and Protection "
                 }
             ]
         },
@@ -374,7 +374,7 @@
                     "expected_level":3,
                     "actual_level":1,
                     "gap":"Yes",
-                    "recommend":""
+                    "recommend":"DOMI of Pumps DOMI of Compressors & Blowers DOMI of ICE, Steam Turbines and Turbo Expander DOMI of Gas Turbine SKG12 Machinery Control, Monitoring and Protection "
                 }
             ]
         },
@@ -393,7 +393,7 @@
                     "expected_level":3,
                     "actual_level":1,
                     "gap":"Yes",
-                    "recommend":" Sedimentology L2 ABL L2 Carbonate"
+                    "recommend":"Sedimentology L2 ABL L2 Carbonate"
                 }
             ]
         },
@@ -431,7 +431,7 @@
                     "expected_level":4,
                     "actual_level":1,
                     "gap":"Yes",
-                    "recommend":""
+                    "recommend":"Internal Course: -Material Selection DOMI of Piping System External Course: -B31.3 Process Piping by vendor"
                 }
             ]
         },
@@ -573,7 +573,7 @@
                     "expected_level":3,
                     "actual_level":2,
                     "gap":"Yes",
-                    "recommend":""
+                    "recommend":"Subsea Xmas Tree and Wellhead Subsea Manifold & Pping System Subsea Umbilical & Distribution System"
                 }
             ]
         },
@@ -592,7 +592,7 @@
                     "expected_level":3,
                     "actual_level":1,
                     "gap":"Yes",
-                    "recommend":""
+                    "recommend":"Material Selection Corrosion Management DOMI of Piping Systems"
                 }
             ]
         },
@@ -715,7 +715,7 @@
                     "expected_level":3,
                     "actual_level":1,
                     "gap":"Yes",
-                    "recommend":""
+                    "recommend":"DOMI of Pumps DOMI of Compressors & Blowers DOMI of ICE, Steam Turbines and Turbo Expander DOMI of Gas Turbine SKG12 Machinery Control, Monitoring and Protection "
                 }
             ]
         },
@@ -753,7 +753,7 @@
                     "expected_level":3,
                     "actual_level":1,
                     "gap":"Yes",
-                    "recommend":""
+                    "recommend":"Root Cause Analysis Methodology (3days) Tripod-Beta by SKG 18 (2 days) RCFA Structured 5 Why by GTS (3 days)"
                 }
             ]
         },
@@ -810,7 +810,7 @@
                     "expected_level":2,
                     "actual_level":1,
                     "gap":"Yes",
-                    "recommend":""
+                    "recommend":"Subsea Xmas Tree and Wellhead Subsea Manifold & Pping System Subsea Umbilical & Distribution System"
                 }
             ]
         },
