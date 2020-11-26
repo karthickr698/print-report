@@ -31,7 +31,7 @@
                     "name":"Carbonate Petrology",
                     "def":"",
                     "min_level":0,
-                    "expected_level":3,
+                    "expected_level":4,
                     "actual_level":1,
                     "gap":"Yes",
                     "recommend":"Sedimentology L2 ABL L2 Carbonate"
