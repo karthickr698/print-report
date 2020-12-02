@@ -304,7 +304,5 @@ export default class Home extends Component{
                 <PrintDatas user={datas}  ref={el => (this.componentRef = el)} />
             </div>
         )
-    }
-
-    
+    } 
 }
