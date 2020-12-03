@@ -573,7 +573,7 @@
                     "expected_level":3,
                     "actual_level":2,
                     "gap":"Yes",
-                    "recommend":"Subsea Xmas Tree and Wellhead Subsea Manifold & piping System Subsea Umbilical & Distribution System"
+                    "recommend":"Subsea Xmas Tree and Wellhead Subsea Manifold & Piping System Subsea Umbilical & Distribution System"
                 }
             ]
         },
@@ -810,7 +810,7 @@
                     "expected_level":2,
                     "actual_level":1,
                     "gap":"Yes",
-                    "recommend":"Subsea Xmas Tree and Wellhead Subsea Manifold & piping System Subsea Umbilical & Distribution System"
+                    "recommend":"Subsea Xmas Tree and Wellhead Subsea Manifold & Piping System Subsea Umbilical & Distribution System"
                 }
             ]
         },
